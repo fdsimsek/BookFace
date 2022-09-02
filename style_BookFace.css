@@ -1,0 +1,4 @@
+.root{
+    -fx-background: #393E46; /*Background color*/
+	-fx-base: #00ADB5; /*Buttons and textfields' color*/
+}
